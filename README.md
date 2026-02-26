@@ -48,6 +48,7 @@ anime-search-app/
 ├── package.json
 ├── vite.config.js
 └── README.md
+```
 
 ## 🖼️ Screenshots
 
