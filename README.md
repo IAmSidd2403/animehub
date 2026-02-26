@@ -58,9 +58,7 @@ anime-search-app/
 ---
 
 ### 🔍 Anime Search Results
-![Search Results](screenshots/search.png)
+![Search Results](screenshots/calls.png)
 
 ---
 
-### 📈 Trending Anime Section
-![Trending Anime](screenshots/trending.png)
